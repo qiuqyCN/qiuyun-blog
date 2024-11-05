@@ -4,7 +4,7 @@ summary: "15-Route 中间件和 Server 中间件的概念和使用"
 date: "Nov 5 2024"
 draft: false
 tags:
-    - Nuxt3
+  - Nuxt3
 ---
 
 大家好，我是村长！

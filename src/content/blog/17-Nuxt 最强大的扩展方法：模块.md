@@ -4,7 +4,7 @@ summary: "17-Nuxt 最强大的扩展方法：模块"
 date: "Nov 5 2024"
 draft: false
 tags:
-    - Nuxt3
+  - Nuxt3
 ---
 
 大家好，我是村长！本节我们给大家介绍 Nuxt 中最强大的扩展方法“模块”的使用和开发知识。

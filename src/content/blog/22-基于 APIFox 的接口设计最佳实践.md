@@ -4,7 +4,7 @@ summary: "22-基于 APIFox 的接口设计最佳实践"
 date: "Nov 5 2024"
 draft: false
 tags:
-    - Nuxt3
+  - Nuxt3
 ---
 
 大家好，我是村长！

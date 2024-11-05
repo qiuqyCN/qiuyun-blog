@@ -4,7 +4,7 @@ summary: "19-Nuxt 项目工程化搭建指南"
 date: "Nov 5 2024"
 draft: false
 tags:
-    - Nuxt3
+  - Nuxt3
 ---
 
 大家好，我是村长！

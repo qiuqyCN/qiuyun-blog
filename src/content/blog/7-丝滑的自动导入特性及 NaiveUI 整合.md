@@ -4,7 +4,7 @@ summary: "7-丝滑的自动导入特性及 NaiveUI 整合"
 date: "Nov 5 2024"
 draft: false
 tags:
-    - Nuxt3
+  - Nuxt3
 ---
 大家好，我是村长！
 

@@ -4,7 +4,7 @@ summary: "12-项目开发常用配置演示及 SEO 优化"
 date: "Nov 5 2024"
 draft: false
 tags:
-    - Nuxt3
+  - Nuxt3
 ---
 大家好，我是村长！
 

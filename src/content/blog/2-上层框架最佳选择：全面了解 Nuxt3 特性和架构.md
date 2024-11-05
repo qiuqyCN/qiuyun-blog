@@ -4,7 +4,7 @@ summary: "2-上层框架最佳选择：全面了解 Nuxt3 特性和架构"
 date: "Nov 5 2024"
 draft: false
 tags:
-    - Nuxt3
+  - Nuxt3
 ---
 大家好，我是村长。欢迎大家开启 Nuxt 全栈开发学习之旅！
 

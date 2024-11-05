@@ -4,7 +4,7 @@ summary: "18-利用 layers 全面提升 Nuxt 应用复用性"
 date: "Nov 5 2024"
 draft: false
 tags:
-    - Nuxt3
+  - Nuxt3
 ---
 
 大家好，我是村长！

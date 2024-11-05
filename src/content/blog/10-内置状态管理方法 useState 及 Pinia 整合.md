@@ -4,7 +4,7 @@ summary: "10-内置状态管理方法 useState 及 Pinia 整合"
 date: "Nov 5 2024"
 draft: false
 tags:
-    - Nuxt3
+  - Nuxt3
 ---
 大家好，我是村长！上一节我们学习了基于 Nuxt3 中数据访问的各种姿势，本节我们探究项目开发中另一个重要需求：全局状态管理。
 

@@ -4,7 +4,7 @@ summary: "23-10分钟速通下一代 ORM 解决方案：Prisma"
 date: "Nov 5 2024"
 draft: false
 tags:
-    - Nuxt3
+  - Nuxt3
 ---
 
 大家好，我是村长！

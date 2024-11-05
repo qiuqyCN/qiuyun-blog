@@ -4,7 +4,7 @@ summary: "8-基于API 路由开发接口，全栈之路从此启航"
 date: "Nov 5 2024"
 draft: false
 tags:
-    - Nuxt3
+  - Nuxt3
 ---
 大家好，我是村长！
 

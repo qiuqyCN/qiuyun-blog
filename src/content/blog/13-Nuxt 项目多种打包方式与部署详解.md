@@ -4,7 +4,7 @@ summary: "13-Nuxt 项目多种打包方式与部署详解"
 date: "Nov 5 2024"
 draft: false
 tags:
-    - Nuxt3
+  - Nuxt3
 ---
 大家好，我是村长！截至目前为止，Nuxt 开发相关的内容告一段落。
 

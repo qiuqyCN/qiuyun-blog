@@ -4,7 +4,7 @@ summary: "16-如何使用插件扩展 Nuxt 能力"
 date: "Nov 5 2024"
 draft: false
 tags:
-    - Nuxt3
+  - Nuxt3
 ---
 
 大家好，我是村长！本节我们讲解 Nuxt 插件使用。

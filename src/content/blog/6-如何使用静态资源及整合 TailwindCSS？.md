@@ -4,7 +4,7 @@ summary: "6-如何使用静态资源及整合 TailwindCSS？"
 date: "Nov 5 2024"
 draft: false
 tags:
-    - Nuxt3
+  - Nuxt3
 ---
 大家好，我是村长！
 

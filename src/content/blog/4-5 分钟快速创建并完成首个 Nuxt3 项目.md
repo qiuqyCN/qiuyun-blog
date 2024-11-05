@@ -4,7 +4,7 @@ summary: "4-5 分钟快速创建并完成首个 Nuxt3 项目"
 date: "Nov 5 2024"
 draft: false
 tags:
-    - Nuxt3
+  - Nuxt3
 ---
 小伙伴们大家好，我是村长，很高兴又和大家见面了。
 

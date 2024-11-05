@@ -4,7 +4,7 @@ summary: "20-基于 Docker 搭建 MySQL 数据库开发环境"
 date: "Nov 5 2024"
 draft: false
 tags:
-    - Nuxt3
+  - Nuxt3
 ---
 
 大家好，我是村长！
