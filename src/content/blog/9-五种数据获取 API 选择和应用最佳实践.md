@@ -1,3 +1,11 @@
+---
+title: "9-五种数据获取 API 选择和应用最佳实践"
+summary: "9-五种数据获取 API 选择和应用最佳实践"
+date: "Nov 5 2024"
+draft: false
+tags:
+    - Nuxt3
+---
 大家好，我是村长！
 
 上一讲我们学习了如何基于 API Route 编写接口，有了接口就需要获取数据，Nuxt3 中提供的多种数据访问 API：

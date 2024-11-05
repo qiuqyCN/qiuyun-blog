@@ -1,3 +1,12 @@
+---
+title: "18-利用 layers 全面提升 Nuxt 应用复用性"
+summary: "18-利用 layers 全面提升 Nuxt 应用复用性"
+date: "Nov 5 2024"
+draft: false
+tags:
+    - Nuxt3
+---
+
 大家好，我是村长！
 
 前面我提到了一个开发中常见需求：能够复用之前项目中的配置、已存在的组件、工具方法等等。Nuxt3 提供的 layers

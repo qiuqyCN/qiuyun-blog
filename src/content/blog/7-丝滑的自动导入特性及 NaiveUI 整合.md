@@ -1,3 +1,11 @@
+---
+title: "7-丝滑的自动导入特性及 NaiveUI 整合"
+summary: "7-丝滑的自动导入特性及 NaiveUI 整合"
+date: "Nov 5 2024"
+draft: false
+tags:
+    - Nuxt3
+---
 大家好，我是村长！
 
 上一讲我们掌握了项目中静态资源的使用方法，并整合的样式库

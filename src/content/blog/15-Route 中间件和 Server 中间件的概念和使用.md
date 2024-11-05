@@ -1,3 +1,12 @@
+---
+title: "15-Route 中间件和 Server 中间件的概念和使用"
+summary: "15-Route 中间件和 Server 中间件的概念和使用"
+date: "Nov 5 2024"
+draft: false
+tags:
+    - Nuxt3
+---
+
 大家好，我是村长！
 
 本节我们讲一下中间件，什么是中间件？大家如果接触过 express、koa 这类 node.js 框架，应该都会知道它们其实就是 **请求拦截器**

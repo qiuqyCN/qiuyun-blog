@@ -1,3 +1,12 @@
+---
+title: "19-Nuxt 项目工程化搭建指南"
+summary: "19-Nuxt 项目工程化搭建指南"
+date: "Nov 5 2024"
+draft: false
+tags:
+    - Nuxt3
+---
+
 大家好，我是村长！
 
 这将是我们这个模块的最后一节，主题是 Nuxt 项目工程化。

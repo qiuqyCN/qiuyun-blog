@@ -1,3 +1,12 @@
+---
+title: "16-如何使用插件扩展 Nuxt 能力"
+summary: "16-如何使用插件扩展 Nuxt 能力"
+date: "Nov 5 2024"
+draft: false
+tags:
+    - Nuxt3
+---
+
 大家好，我是村长！本节我们讲解 Nuxt 插件使用。
 
 插件跟中间件比起来，后者影响的是路由请求本身，而插件影响的是 Nuxt 框架本身，框架主要由自身构建体系、Vue 和 Nitro

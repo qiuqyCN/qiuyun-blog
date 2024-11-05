@@ -1,3 +1,12 @@
+---
+title: "20-基于 Docker 搭建 MySQL 数据库开发环境"
+summary: "20-基于 Docker 搭建 MySQL 数据库开发环境"
+date: "Nov 5 2024"
+draft: false
+tags:
+    - Nuxt3
+---
+
 大家好，我是村长！
 
 本节课主要关注服务端开发相关知识，这主要是为接下来的项目篇做准备。

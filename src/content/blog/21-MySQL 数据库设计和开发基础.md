@@ -1,3 +1,12 @@
+---
+title: "21-MySQL 数据库设计和开发基础"
+summary: "21-MySQL 数据库设计和开发基础"
+date: "Nov 5 2024"
+draft: false
+tags:
+    - Nuxt3
+---
+
 ## 概要
 
 大家好，我是村长！
