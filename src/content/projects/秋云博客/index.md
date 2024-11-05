@@ -39,3 +39,5 @@ A portfolio and blog for designers and developers.
 - ✅ MDX Support (components in your markdown)
 - ✅ Searchable content (posts and projects)
 
+
+
